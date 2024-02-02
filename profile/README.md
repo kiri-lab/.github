@@ -6,7 +6,7 @@ CorBi（コービ, コルビ）は心拍データを動画配信やバーチャ�
 
 - [CorBiVisualizer](https://github.com/kiri-lab/CorBiVisualizer)  
   CorBiCore, Readerのデータを可視化するためのサンプルアプリケーション  
-- [CorBiCore](https://github.com/kiri-lab/CorBiCore)
+- [CorBiCore]() 開発中  
   CorBiReaderから収集した心拍情報を処理するためのバックグラウンドプロセス  
 - [CorBiReader](https://github.com/kiri-lab/CorBiReader)  
   心拍データを収集し、ワイヤレスで送信するためのファームウェア 
